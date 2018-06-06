@@ -22,7 +22,7 @@
 * MMC
 * Número Primo
 * Número Par / Ímpar
-* Bhaslara
+* Bhaskara
 
 ## Pré-requisito
 
